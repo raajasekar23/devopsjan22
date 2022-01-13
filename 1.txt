@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is file one after ani commit
+=======
+
+Hello World 1
+>>>>>>> 7cf701aab0481384f453bf162aab9d339582bea1
